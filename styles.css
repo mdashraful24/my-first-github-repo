@@ -12,7 +12,7 @@ body {
 
 .first-section {
     /* border: 2px solid red; */
-    width: 1920px;
+    max-width: 1920px;
     height: 919px;
     margin: 0 auto;
     margin-top: 120px;
